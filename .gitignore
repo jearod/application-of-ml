@@ -6,3 +6,5 @@ __pycache__/
 .git/
 data/
 models_backup/
+.vscode/
+.env
