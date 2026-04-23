@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+*.ipynb
+.git/
+data/
+models_backup/
+.vscode/
+*md
